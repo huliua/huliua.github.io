@@ -7,6 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://huliua.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>github&#43;hugo搭建个人博客</title>
+      <link>https://huliua.github.io/docs/hugo&#43;github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://huliua.github.io/docs/hugo&#43;github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>github+hugo搭建个人博客 #  一、本地环境搭建hugo #  1.安装hugo #  mac系统中推荐使用brew安装Hugo，命令如下:
+brew install hugo 安装结束后，使用命令查看是否安装成功：
+hugo version 2.新建博客 #  使用命令 hugo new site xxx 就可以创建一个新的博客目录
+会生成一个目录，目录的大致结构如下：
+3.下载主题 #  前往hugo主题商店选择心仪的主题，按照主题中的说明配置后即可使用该主题
+4.新建博客内容 #  首先进入hugo生成的博客文件夹中
+使用命令创建新的博客页面，会在 content 文件夹中生成对应的文件
+hugo new page1.md 5.本地启动服务 #  使用命令可以在本地启动一个博客服务：
+hugo server [-t 主题名] [--buildDrafts] 出现以下说明启动成功了：
+6.使用github部署博客 #  ​	首先，在GitHub中创建私人仓库，命名为xxxx.github.io
+​	然后使用命令，会在 public 文件夹下面生成博客
+hugo --theme=hugo-book --baseUrl=&amp;#34;https://huliua.github.io/&amp;#34; --buildDrafts ​	进入public文件夹，使用git相关命令将生成的代码push到github仓库即可。
+git init git add . git commit -m &amp;#34;first commit&amp;#34; git remote add origin https://github.</description>
+    </item>
+    
+    <item>
       <title>账号信息</title>
       <link>https://huliua.github.io/docs/%E8%B4%A6%E5%8F%B7%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
