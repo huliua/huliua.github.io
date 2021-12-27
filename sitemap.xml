@@ -2,22 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://huliua.github.io/docs/%E9%87%91%E6%99%BA%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2021-12-23T19:57:46+08:00</lastmod>
-  </url><url>
-    <loc>https://huliua.github.io/docs/page-one/</loc>
-    <lastmod>2021-12-19T22:30:35+08:00</lastmod>
-  </url><url>
-    <loc>https://huliua.github.io/docs/</loc>
-    <lastmod>2021-12-23T19:57:46+08:00</lastmod>
-  </url><url>
-    <loc>https://huliua.github.io/</loc>
-    <lastmod>2021-12-23T19:57:46+08:00</lastmod>
-  </url><url>
     <loc>https://huliua.github.io/docs/github&#43;hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
   </url><url>
     <loc>https://huliua.github.io/categories/</loc>
   </url><url>
+    <loc>https://huliua.github.io/docs/</loc>
+  </url><url>
     <loc>https://huliua.github.io/tags/</loc>
+  </url><url>
+    <loc>https://huliua.github.io/</loc>
   </url>
 </urlset>
